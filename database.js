@@ -1,1 +1,0 @@
-const {createPool} = require('mysql');
